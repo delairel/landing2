@@ -1,0 +1,82 @@
+/* style.css */
+body{
+  background: #5D737E;
+  color: #183059;
+  font-size: 25px;
+  font-family: Courier;
+  text-align: center;
+}
+/*h1
+{
+  font-family: Kumar One Outline;
+  color: red;
+  font-weight: lighter;
+  font-size: 100px;
+}*/
+h2 {
+  font-family: Courier;
+  color: #840032;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h3 {
+  font-family: Faster One;
+  color: #840032;
+  font-weight: lighter;
+  font-size: 30px;
+
+}
+h4 
+{
+
+  color: #183059;
+  font-size: 25px;
+  font-family: Courier;
+  text-align: center;
+}
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/montain.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+
+}
+#banner h1 {
+    font-family: Kumar One Outline;
+    color: #840032;
+    font-weight: lighter;
+    font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  list-style: lower-norwegian;
+  
+}
+.card{
+  padding-top: 50px;
+  font-weight: lighter;
+  border: 0px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  background-color: #FCFCFC;
+  height: 70vh;
+
+}
